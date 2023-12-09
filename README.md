@@ -1,4 +1,4 @@
 <h1>PLEASE 🙏 FOLLOW ME</h1>
 <h1>DON'T FORGET TO STAR MY REPOSITORY</h1>
-<marquee><h2>OPEN SOURCE 💓</h2></marquee>
+<marquee>OPEN SOURCE</marquee>
 
